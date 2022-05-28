@@ -17,8 +17,13 @@ This Project aims to provides a handy tool to utilize the power of Machine Learn
 ## 🏁 Technology Stack
 
 Flask
+
 HTML
+
 CSS
+
 Bootstrap
+
 Tensorflow
+
 Keras
